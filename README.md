@@ -1,4 +1,4 @@
-![MasterHead](GitHub template.png)
+![MasterHead](template.png)
 <h1 align="center">Hi 👋, I'm Akshay Sinha</h1>
 <h3 align="center">A passionate Full-stack GenAI developer from India.</h3>
 
