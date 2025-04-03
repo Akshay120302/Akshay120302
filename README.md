@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **akshay.sinha335@gmail.com**
 
-- 📄 Know about my experiences Working at MathCo as a GenAI Engineer
+- 📄 Know about my experiences : Working at MathCo as a GenAI Engineer
 
 - ⚡ Fun fact **I play chess and kind of decent in it.**
 
